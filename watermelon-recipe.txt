@@ -1,0 +1,14 @@
+watermelon
+
+ingredients :
+	watermelon
+
+preparation :
+	cut in half
+
+utensils :
+	spoon
+
+instructions :
+	spoon out the reddish stuff (seeds and all)
+	chew everything vigorously
